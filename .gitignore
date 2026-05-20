@@ -1,0 +1,27 @@
+# Dependencies and caches
+node_modules/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated frame sequences
+report_figures/temperature_profile_frames*/
+
+# Common local build/runtime output
+.next/
+.build/
+dist/
+build/
+outputs/
+
+# Local environment files
+.env
+.env.*
+.venv/
+venv/
+.pydeps/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini

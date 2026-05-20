@@ -1,0 +1,4 @@
+interface:
+  display_name: "Test Setup Schematic"
+  short_description: "Create clean technical test setup schematics from user sketches."
+  default_prompt: "Create a clean, report-ready schematic from my test setup sketch."

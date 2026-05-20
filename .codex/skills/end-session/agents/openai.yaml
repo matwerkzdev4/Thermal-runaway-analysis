@@ -1,0 +1,4 @@
+interface:
+  display_name: "End Session"
+  short_description: "Log concise project handoff context."
+  default_prompt: "End this session by updating SESSION_LOG.md with concise context for the next chat."

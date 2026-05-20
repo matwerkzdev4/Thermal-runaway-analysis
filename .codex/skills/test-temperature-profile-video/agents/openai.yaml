@@ -1,0 +1,4 @@
+interface:
+  display_name: "Test Temperature Profile Video"
+  short_description: "Animate test temperature profiles."
+  default_prompt: "Create a report-ready animated temperature profile video from my test setup sketch and measurement data."

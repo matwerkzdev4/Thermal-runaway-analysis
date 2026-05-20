@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480">
+<rect width="100%" height="100%" fill="white"/>
+<text x="450.0" y="30" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700">Surface Temperatures at Downstream Vent Runaway</text>
+<line x1="86" y1="388.0" x2="866" y2="388.0" stroke="#e6e6e6"/>
+<text x="76" y="392.0" text-anchor="end" font-family="Arial" font-size="12">0</text>
+<line x1="86" y1="322.0" x2="866" y2="322.0" stroke="#e6e6e6"/>
+<text x="76" y="326.0" text-anchor="end" font-family="Arial" font-size="12">80</text>
+<line x1="86" y1="256.0" x2="866" y2="256.0" stroke="#e6e6e6"/>
+<text x="76" y="260.0" text-anchor="end" font-family="Arial" font-size="12">160</text>
+<line x1="86" y1="190.0" x2="866" y2="190.0" stroke="#e6e6e6"/>
+<text x="76" y="194.0" text-anchor="end" font-family="Arial" font-size="12">240</text>
+<line x1="86" y1="124.0" x2="866" y2="124.0" stroke="#e6e6e6"/>
+<text x="76" y="128.0" text-anchor="end" font-family="Arial" font-size="12">320</text>
+<line x1="86" y1="58.0" x2="866" y2="58.0" stroke="#e6e6e6"/>
+<text x="76" y="62.0" text-anchor="end" font-family="Arial" font-size="12">400</text>
+<line x1="86" y1="58" x2="86" y2="388" stroke="#333"/>
+<line x1="86" y1="388" x2="866" y2="388" stroke="#333"/>
+<text transform="translate(22 240.0) rotate(-90)" text-anchor="middle" font-family="Arial" font-size="14">Temperature (degC)</text>
+<rect x="239.0" y="91.1" width="32.8" height="296.9" fill="#1f77b4"/>
+<text x="255.4" y="86.1" text-anchor="middle" font-family="Arial" font-size="11">359.9</text>
+<rect x="281.0" y="279.5" width="32.8" height="108.5" fill="#d62728"/>
+<text x="297.4" y="274.5" text-anchor="middle" font-family="Arial" font-size="11">131.5</text>
+<text x="281.0" y="422" text-anchor="middle" font-family="Arial" font-size="12">C3 at 3062 s</text>
+<rect x="629.0" y="98.7" width="32.8" height="289.3" fill="#1f77b4"/>
+<text x="645.4" y="93.7" text-anchor="middle" font-family="Arial" font-size="11">350.7</text>
+<rect x="671.0" y="282.4" width="32.8" height="105.6" fill="#d62728"/>
+<text x="687.4" y="277.4" text-anchor="middle" font-family="Arial" font-size="11">128.0</text>
+<text x="671.0" y="422" text-anchor="middle" font-family="Arial" font-size="12">C4 at 3807 s</text>
+<rect x="86" y="450" width="13" height="13" fill="#1f77b4"/>
+<text x="104" y="461" font-family="Arial" font-size="13">Hot-side</text>
+<rect x="216" y="450" width="13" height="13" fill="#d62728"/>
+<text x="234" y="461" font-family="Arial" font-size="13">Cool-side</text>
+</svg>

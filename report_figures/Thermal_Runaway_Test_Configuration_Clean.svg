@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" rx="0" fill="#f7f9fc"/>
+<text x="54" y="92" font-family="Arial, Segoe UI, sans-serif" font-size="48" font-weight="700" fill="#18202a" text-anchor="start">Thermal Runaway Test Configuration</text>
+<rect x="45" y="145" width="1830" height="640" rx="12" fill="#eef3f8" stroke="#d7dee8" stroke-width="2"/>
+<rect x="216" y="195" width="14" height="550" rx="0" fill="#111111"/>
+<rect x="490" y="195" width="14" height="550" rx="0" fill="#111111"/>
+<rect x="524" y="195" width="14" height="550" rx="0" fill="#111111"/>
+<rect x="822" y="195" width="14" height="550" rx="0" fill="#111111"/>
+<rect x="856" y="195" width="14" height="550" rx="0" fill="#111111"/>
+<rect x="1130" y="195" width="14" height="550" rx="0" fill="#111111"/>
+<rect x="1164" y="195" width="14" height="550" rx="0" fill="#111111"/>
+<rect x="1438" y="195" width="14" height="550" rx="0" fill="#111111"/>
+<rect x="1472" y="195" width="14" height="550" rx="0" fill="#111111"/>
+<rect x="1746" y="195" width="14" height="550" rx="0" fill="#111111"/>
+<rect x="558" y="220" width="12" height="500" rx="0" fill="#e33a3a"/>
+<rect x="790" y="220" width="12" height="500" rx="0" fill="#e33a3a"/>
+<rect x="250" y="220" width="220" height="500" rx="6" fill="#4f95d8" stroke="#1f5d93" stroke-width="3"/>
+<text x="360.0" y="486.0" font-family="Arial, Segoe UI, sans-serif" font-size="42" font-weight="700" fill="#ffffff" text-anchor="middle">C1</text>
+<rect x="570" y="220" width="220" height="500" rx="6" fill="#4f95d8" stroke="#1f5d93" stroke-width="3"/>
+<text x="680.0" y="486.0" font-family="Arial, Segoe UI, sans-serif" font-size="42" font-weight="700" fill="#ffffff" text-anchor="middle">C2</text>
+<rect x="890" y="220" width="220" height="500" rx="6" fill="#4f95d8" stroke="#1f5d93" stroke-width="3"/>
+<text x="1000.0" y="486.0" font-family="Arial, Segoe UI, sans-serif" font-size="42" font-weight="700" fill="#ffffff" text-anchor="middle">C3</text>
+<rect x="1198" y="220" width="220" height="500" rx="6" fill="#4f95d8" stroke="#1f5d93" stroke-width="3"/>
+<text x="1308.0" y="486.0" font-family="Arial, Segoe UI, sans-serif" font-size="42" font-weight="700" fill="#ffffff" text-anchor="middle">C4</text>
+<rect x="1506" y="220" width="220" height="500" rx="6" fill="#4f95d8" stroke="#1f5d93" stroke-width="3"/>
+<text x="1616.0" y="486.0" font-family="Arial, Segoe UI, sans-serif" font-size="42" font-weight="700" fill="#ffffff" text-anchor="middle">C5</text>
+<line x1="120" y1="400" x2="216" y2="425" stroke="#e87524" stroke-width="3"/>
+<circle cx="216" cy="425" r="10" fill="#ffd84d" stroke="#18202a" stroke-width="3"/>
+<rect x="86" y="391" width="40" height="29" rx="4" fill="#f7f9fc" stroke="#cfd8e4" stroke-width="1"/>
+<text x="92" y="415" font-family="Arial, Segoe UI, sans-serif" font-size="25" font-weight="700" fill="#18202a" text-anchor="start">T1</text>
+<line x1="124" y1="588" x2="240" y2="545" stroke="#e87524" stroke-width="3"/>
+<circle cx="240" cy="545" r="10" fill="#ffd84d" stroke="#18202a" stroke-width="3"/>
+<rect x="90" y="579" width="40" height="29" rx="4" fill="#f7f9fc" stroke="#cfd8e4" stroke-width="1"/>
+<text x="96" y="603" font-family="Arial, Segoe UI, sans-serif" font-size="25" font-weight="700" fill="#18202a" text-anchor="start">T2</text>
+<line x1="366" y1="164" x2="360" y2="220" stroke="#e87524" stroke-width="3"/>
+<circle cx="360" cy="220" r="10" fill="#ffd84d" stroke="#18202a" stroke-width="3"/>
+<rect x="332" y="155" width="40" height="29" rx="4" fill="#f7f9fc" stroke="#cfd8e4" stroke-width="1"/>
+<text x="338" y="179" font-family="Arial, Segoe UI, sans-serif" font-size="25" font-weight="700" fill="#18202a" text-anchor="start">T3</text>
+<line x1="440" y1="440" x2="480" y2="470" stroke="#e87524" stroke-width="3"/>
+<circle cx="480" cy="470" r="10" fill="#ffd84d" stroke="#18202a" stroke-width="3"/>
+<rect x="406" y="431" width="40" height="29" rx="4" fill="#f7f9fc" stroke="#cfd8e4" stroke-width="1"/>
+<text x="412" y="455" font-family="Arial, Segoe UI, sans-serif" font-size="25" font-weight="700" fill="#18202a" text-anchor="start">T4</text>
+<line x1="496" y1="682" x2="514" y2="600" stroke="#e87524" stroke-width="3"/>
+<circle cx="514" cy="600" r="10" fill="#ffd84d" stroke="#18202a" stroke-width="3"/>
+<rect x="462" y="673" width="40" height="29" rx="4" fill="#f7f9fc" stroke="#cfd8e4" stroke-width="1"/>
+<text x="468" y="697" font-family="Arial, Segoe UI, sans-serif" font-size="25" font-weight="700" fill="#18202a" text-anchor="start">T5</text>
+<line x1="502" y1="435" x2="548" y2="490" stroke="#e87524" stroke-width="3"/>
+<circle cx="548" cy="490" r="10" fill="#ffd84d" stroke="#18202a" stroke-width="3"/>
+<rect x="468" y="426" width="40" height="29" rx="4" fill="#f7f9fc" stroke="#cfd8e4" stroke-width="1"/>
+<text x="474" y="450" font-family="Arial, Segoe UI, sans-serif" font-size="25" font-weight="700" fill="#18202a" text-anchor="start">T6</text>
+<line x1="686" y1="164" x2="680" y2="220" stroke="#e87524" stroke-width="3"/>
+<circle cx="680" cy="220" r="10" fill="#ffd84d" stroke="#18202a" stroke-width="3"/>
+<rect x="652" y="155" width="40" height="29" rx="4" fill="#f7f9fc" stroke="#cfd8e4" stroke-width="1"/>
+<text x="658" y="179" font-family="Arial, Segoe UI, sans-serif" font-size="25" font-weight="700" fill="#18202a" text-anchor="start">T7</text>
+<line x1="750" y1="370" x2="812" y2="490" stroke="#e87524" stroke-width="3"/>
+<circle cx="812" cy="490" r="10" fill="#ffd84d" stroke="#18202a" stroke-width="3"/>
+<rect x="716" y="361" width="40" height="29" rx="4" fill="#f7f9fc" stroke="#cfd8e4" stroke-width="1"/>
+<text x="722" y="385" font-family="Arial, Segoe UI, sans-serif" font-size="25" font-weight="700" fill="#18202a" text-anchor="start">T8</text>
+<line x1="832" y1="682" x2="846" y2="600" stroke="#e87524" stroke-width="3"/>
+<circle cx="846" cy="600" r="10" fill="#ffd84d" stroke="#18202a" stroke-width="3"/>
+<rect x="798" y="673" width="40" height="29" rx="4" fill="#f7f9fc" stroke="#cfd8e4" stroke-width="1"/>
+<text x="804" y="697" font-family="Arial, Segoe UI, sans-serif" font-size="25" font-weight="700" fill="#18202a" text-anchor="start">T9</text>
+<line x1="930" y1="375" x2="880" y2="470" stroke="#e87524" stroke-width="3"/>
+<circle cx="880" cy="470" r="10" fill="#ffd84d" stroke="#18202a" stroke-width="3"/>
+<rect x="896" y="366" width="54" height="29" rx="4" fill="#f7f9fc" stroke="#cfd8e4" stroke-width="1"/>
+<text x="902" y="390" font-family="Arial, Segoe UI, sans-serif" font-size="25" font-weight="700" fill="#18202a" text-anchor="start">T10</text>
+<line x1="998" y1="164" x2="1000" y2="220" stroke="#e87524" stroke-width="3"/>
+<circle cx="1000" cy="220" r="10" fill="#ffd84d" stroke="#18202a" stroke-width="3"/>
+<rect x="964" y="155" width="54" height="29" rx="4" fill="#f7f9fc" stroke="#cfd8e4" stroke-width="1"/>
+<text x="970" y="179" font-family="Arial, Segoe UI, sans-serif" font-size="25" font-weight="700" fill="#18202a" text-anchor="start">T11</text>
+<line x1="1066" y1="440" x2="1120" y2="470" stroke="#e87524" stroke-width="3"/>
+<circle cx="1120" cy="470" r="10" fill="#ffd84d" stroke="#18202a" stroke-width="3"/>
+<rect x="1032" y="431" width="54" height="29" rx="4" fill="#f7f9fc" stroke="#cfd8e4" stroke-width="1"/>
+<text x="1038" y="455" font-family="Arial, Segoe UI, sans-serif" font-size="25" font-weight="700" fill="#18202a" text-anchor="start">T12</text>
+<line x1="1134" y1="682" x2="1154" y2="600" stroke="#e87524" stroke-width="3"/>
+<circle cx="1154" cy="600" r="10" fill="#ffd84d" stroke="#18202a" stroke-width="3"/>
+<rect x="1100" y="673" width="54" height="29" rx="4" fill="#f7f9fc" stroke="#cfd8e4" stroke-width="1"/>
+<text x="1106" y="697" font-family="Arial, Segoe UI, sans-serif" font-size="25" font-weight="700" fill="#18202a" text-anchor="start">T13</text>
+<line x1="1152" y1="375" x2="1188" y2="470" stroke="#e87524" stroke-width="3"/>
+<circle cx="1188" cy="470" r="10" fill="#ffd84d" stroke="#18202a" stroke-width="3"/>
+<rect x="1118" y="366" width="54" height="29" rx="4" fill="#f7f9fc" stroke="#cfd8e4" stroke-width="1"/>
+<text x="1124" y="390" font-family="Arial, Segoe UI, sans-serif" font-size="25" font-weight="700" fill="#18202a" text-anchor="start">T14</text>
+<line x1="1306" y1="164" x2="1308" y2="220" stroke="#e87524" stroke-width="3"/>
+<circle cx="1308" cy="220" r="10" fill="#ffd84d" stroke="#18202a" stroke-width="3"/>
+<rect x="1272" y="155" width="54" height="29" rx="4" fill="#f7f9fc" stroke="#cfd8e4" stroke-width="1"/>
+<text x="1278" y="179" font-family="Arial, Segoe UI, sans-serif" font-size="25" font-weight="700" fill="#18202a" text-anchor="start">T15</text>
+<line x1="1374" y1="440" x2="1428" y2="470" stroke="#e87524" stroke-width="3"/>
+<circle cx="1428" cy="470" r="10" fill="#ffd84d" stroke="#18202a" stroke-width="3"/>
+<rect x="1340" y="431" width="54" height="29" rx="4" fill="#f7f9fc" stroke="#cfd8e4" stroke-width="1"/>
+<text x="1346" y="455" font-family="Arial, Segoe UI, sans-serif" font-size="25" font-weight="700" fill="#18202a" text-anchor="start">T16</text>
+<line x1="1442" y1="682" x2="1462" y2="600" stroke="#e87524" stroke-width="3"/>
+<circle cx="1462" cy="600" r="10" fill="#ffd84d" stroke="#18202a" stroke-width="3"/>
+<rect x="1408" y="673" width="54" height="29" rx="4" fill="#f7f9fc" stroke="#cfd8e4" stroke-width="1"/>
+<text x="1414" y="697" font-family="Arial, Segoe UI, sans-serif" font-size="25" font-weight="700" fill="#18202a" text-anchor="start">T17</text>
+<line x1="1468" y1="375" x2="1496" y2="470" stroke="#e87524" stroke-width="3"/>
+<circle cx="1496" cy="470" r="10" fill="#ffd84d" stroke="#18202a" stroke-width="3"/>
+<rect x="1434" y="366" width="54" height="29" rx="4" fill="#f7f9fc" stroke="#cfd8e4" stroke-width="1"/>
+<text x="1440" y="390" font-family="Arial, Segoe UI, sans-serif" font-size="25" font-weight="700" fill="#18202a" text-anchor="start">T18</text>
+<line x1="1614" y1="164" x2="1616" y2="220" stroke="#e87524" stroke-width="3"/>
+<circle cx="1616" cy="220" r="10" fill="#ffd84d" stroke="#18202a" stroke-width="3"/>
+<rect x="1580" y="155" width="54" height="29" rx="4" fill="#f7f9fc" stroke="#cfd8e4" stroke-width="1"/>
+<text x="1586" y="179" font-family="Arial, Segoe UI, sans-serif" font-size="25" font-weight="700" fill="#18202a" text-anchor="start">T19</text>
+<line x1="1682" y1="440" x2="1736" y2="470" stroke="#e87524" stroke-width="3"/>
+<circle cx="1736" cy="470" r="10" fill="#ffd84d" stroke="#18202a" stroke-width="3"/>
+<rect x="1648" y="431" width="54" height="29" rx="4" fill="#f7f9fc" stroke="#cfd8e4" stroke-width="1"/>
+<text x="1654" y="455" font-family="Arial, Segoe UI, sans-serif" font-size="25" font-weight="700" fill="#18202a" text-anchor="start">T20</text>
+<line x1="1696" y1="682" x2="1760" y2="600" stroke="#e87524" stroke-width="3"/>
+<circle cx="1760" cy="600" r="10" fill="#ffd84d" stroke="#18202a" stroke-width="3"/>
+<rect x="1662" y="673" width="54" height="29" rx="4" fill="#f7f9fc" stroke="#cfd8e4" stroke-width="1"/>
+<text x="1668" y="697" font-family="Arial, Segoe UI, sans-serif" font-size="25" font-weight="700" fill="#18202a" text-anchor="start">T21</text>
+<rect x="45" y="795" width="1830" height="270" rx="10" fill="#ffffff" stroke="#d7dee8" stroke-width="2"/>
+<text x="75" y="860" font-family="Arial, Segoe UI, sans-serif" font-size="25" font-weight="700" fill="#18202a" text-anchor="start">Legend</text>
+<rect x="75" y="874" width="28" height="28" rx="0" fill="#4f95d8" stroke="#18202a" stroke-width="2"/>
+<text x="117" y="894" font-family="Arial, Segoe UI, sans-serif" font-size="21" font-weight="400" fill="#18202a" text-anchor="start">CATL 117 Ah battery cells</text>
+<rect x="435" y="874" width="28" height="28" rx="0" fill="#e33a3a" stroke="#18202a" stroke-width="2"/>
+<text x="477" y="894" font-family="Arial, Segoe UI, sans-serif" font-size="21" font-weight="400" fill="#18202a" text-anchor="start">Heater</text>
+<rect x="795" y="874" width="28" height="28" rx="0" fill="#111111" stroke="#111111" stroke-width="2"/>
+<text x="837" y="894" font-family="Arial, Segoe UI, sans-serif" font-size="21" font-weight="400" fill="#18202a" text-anchor="start">Insulation jacket</text>
+<circle cx="1169" cy="888" r="14" fill="#ffd84d" stroke="#18202a" stroke-width="2"/>
+<text x="1197" y="894" font-family="Arial, Segoe UI, sans-serif" font-size="21" font-weight="400" fill="#18202a" text-anchor="start">Thermocouple</text>
+<text x="75" y="940" font-family="Arial, Segoe UI, sans-serif" font-size="21" font-weight="700" fill="#18202a" text-anchor="start">Cell / test notes</text>
+<text x="75" y="972" font-family="Arial, Segoe UI, sans-serif" font-size="21" font-weight="400" fill="#18202a" text-anchor="start">- C2 = trigger cell</text>
+<text x="75" y="1000" font-family="Arial, Segoe UI, sans-serif" font-size="21" font-weight="400" fill="#18202a" text-anchor="start">- Heaters turned off after C2 entered TR</text>
+<text x="99" y="1026" font-family="Arial, Segoe UI, sans-serif" font-size="19" font-weight="400" fill="#18202a" text-anchor="start">  assumed ~3 s after steepest T7 spike</text>
+<text x="675" y="940" font-family="Arial, Segoe UI, sans-serif" font-size="21" font-weight="700" fill="#18202a" text-anchor="start">Thermocouple information</text>
+<text x="675" y="972" font-family="Arial, Segoe UI, sans-serif" font-size="21" font-weight="400" fill="#18202a" text-anchor="start">- Vent area: T3 / T7 / T11 / T15 / T19</text>
+<text x="675" y="1000" font-family="Arial, Segoe UI, sans-serif" font-size="21" font-weight="400" fill="#18202a" text-anchor="start">- Battery surface:</text>
+<text x="699" y="1026" font-family="Arial, Segoe UI, sans-serif" font-size="19" font-weight="400" fill="#18202a" text-anchor="start">  T2 / T4 / T10 / T12 / T14 / T16 / T18 / T20</text>
+<text x="1280" y="940" font-family="Arial, Segoe UI, sans-serif" font-size="21" font-weight="700" fill="#18202a" text-anchor="start">Thermocouple information</text>
+<text x="1280" y="972" font-family="Arial, Segoe UI, sans-serif" font-size="21" font-weight="400" fill="#18202a" text-anchor="start">- Inter-jacket: T5 / T9 / T13 / T17</text>
+<text x="1280" y="1000" font-family="Arial, Segoe UI, sans-serif" font-size="21" font-weight="400" fill="#18202a" text-anchor="start">- Heater/jacket: T6 / T8</text>
+<text x="1280" y="1028" font-family="Arial, Segoe UI, sans-serif" font-size="21" font-weight="400" fill="#18202a" text-anchor="start">- Outer jacket/air: T1 / T21</text>
+</svg>
